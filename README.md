@@ -69,7 +69,7 @@ DHCP ทำงานร่วมกับ `ip helper-address` บน Router
 
 >## 🔁 Inter-VLAN Routing
 ใช้เทคนิค **Router-on-a-Stick** ในการทำ Inter-VLAN Routing
-- Switch ↔ Router เชื่อมต่อแบบ Trunk
+- Switch ↔ Router เเละ Switch ↔ Switch เชื่อมต่อแบบ Trunk
 - Router แยก Sub-interface ตาม VLAN ID
 - อุปกรณ์ต่าง VLAN ติดต่อกันได้ผ่าน Router (ตาม Policy)
 
@@ -223,7 +223,7 @@ switchport port-security violation shutdown
 
 ---
 
->## 🎯 Summary
+>## 🧾Summary
 
 โปรเจกต์นี้ทำให้ผมได้ฝึกคิดแบบ **Network Engineer** จริง **ตั้งแต่การออกแบบ → ตั้งค่า → ทดสอบ → แก้ปัญหา → อธิบายระบบ** ไม่ใช่แค่ “ทำให้ใช้งานได้” แต่เป็น “ทำให้ปลอดภัย และอธิบายได้ว่าทำไมต้องออกแบบแบบนี้”
 
