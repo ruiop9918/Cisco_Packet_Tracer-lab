@@ -197,7 +197,7 @@ switchport port-security violation shutdown
     - เข้าใจการทำงานของ `ip helper-address`
     - เรียนรู้การทดสอบ Service จาก Client จริง
 6. **Network Security Fundamentals**
-    - เข้าใจแนวคิด **Defense in Depth**
+    - เข้าใจแนวคิด **Defense**
     - สามารถใช้ **Extended ACL** เพื่อควบคุมการเข้าถึงระหว่าง VLAN
     - เรียนรู้ Best Practice ของการวาง ACL ในทิศทาง Inbound
     - ใช้ **Port Security** เพื่อป้องกันการเสียบอุปกรณ์โดยไม่ได้รับอนุญาต
