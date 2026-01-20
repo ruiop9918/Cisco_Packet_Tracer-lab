@@ -231,7 +231,7 @@ switchport port-security violation shutdown
 
 >## 🛠️ Tools
 - Cisco Packet Tracer Version 9.0.0
- - Download: https://www.netacad.com/resources/lab-downloads (Login ก่อน)
+   - Download: https://www.netacad.com/resources/lab-downloads (Login ก่อน)
 - Windows PC / Laptop
 
 ---
