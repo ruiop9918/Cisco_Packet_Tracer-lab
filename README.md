@@ -237,7 +237,9 @@ switchport port-security violation shutdown
 ---
 
 >## 📂 File
-- `Lab_Network.pkt` – Network Simulation
+
+-  My-Lab_Cisco-Packet -Tacer (.pkt) View or download Lab
+    - `Lab_Network.pkt` – Network Simulation
 - `Lab.png` - Network Topology Diagram
 - `README.md` – Project Documentation
 
